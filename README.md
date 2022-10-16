@@ -3,7 +3,7 @@ im emm 😎<br/>
 this acc is an alt (main is [@idontknoiw](https://github.com/idontknoiw) but ion upload on there) <br/>
 ```python
 def getBitches():
-  requests.get("https://bitches.com")
+  return requests.get("https://bitches.com").text
 bitches = getBitches()
 print(len(bitches))
 >>> 0
