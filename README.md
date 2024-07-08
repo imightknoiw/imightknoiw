@@ -9,4 +9,3 @@ Coding languages i know:<br/>
 - Python
 - HTML
 - JS
-- CSS
